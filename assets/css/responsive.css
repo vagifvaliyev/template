@@ -1,3 +1,231 @@
+@media (min-width: 300px) and (max-width: 899px) {
+    .container {
+          max-width: 50%;
+          overflow: hidden;
+      }
+  
+      .blog-section .container {
+          flex-direction: column !important;
+      }
+      .blog-section .container .main-side {
+          width: 100% !important;
+          margin-bottom: 10px !important;
+      }
+  
+      .blog-section .container aside {
+          width: 100% !important;
+      }
+  
+      .blogs .articles-container {
+          row-gap: 10px;
+      }
+  
+      .banner {
+          background-position: center;
+      }
+  
+      .banner .banner-inner {
+          top:20% !important;
+      }
+  
+      .banner .banner-inner h1 .little  {
+          font-size: 51px !important;
+      }
+  
+      .banner .banner-inner h1 span {
+          font-size: 73px !important ;
+          line-height: 0px;
+      }
+  
+      .header-top {
+          display: none !important;
+      }
+  
+      .header-bottom nav {
+          display: none;
+      }
+  
+      .side-bar-menu-section .get-in-touch {
+          display: none;
+      }
+  
+      .mobilenav {
+          display: block;
+          margin: 20px 0px !important;
+      }
+  
+      .title-area h2 {
+          font-size: 40px !important;
+      }
+  
+      .video-section .container {
+          max-height: 350px !important;
+      }
+  
+      .video-section .container img {
+          object-fit: cover;
+      }
+  
+      .video-section .container h2 {
+          font-size: 4.5rem;
+      }
+  
+      .team-area-section .circle-shape {
+          max-width: 333px;
+          max-height: 333px;
+          bottom: -45% !important;
+          right: -15% !important;
+      }
+  
+      .team-area-section .circle-shape h5 {
+          font-size: 20px !important;
+      }
+  
+      .team-area-section .circle-shape span {
+          font-size: 16px !important;
+      }
+      
+      .team-area-section .circle-shape .text {
+          margin-left: 70px !important;
+          margin-top: 80px !important;
+      }
+  
+      .team-area-section .row {
+          flex-wrap: wrap;
+      }
+  
+      .team-area-section article {
+          width: 50% !important;
+      }
+  
+  
+      .area-header h2 {
+          font-size: 40px !important;
+      }
+  
+      .callto-area-section h3 {
+          font-size: 27px !important;
+          line-height: 30px !important;
+      }
+  
+      .section-header h2 {
+          font-size: 30px !important;
+      }
+  
+      .blog-header h2 {
+          font-size: 30px !important;
+      }
+  
+      .blog-area-section .thumbnail .image {
+          height: 100% !important;
+      }
+  
+      .blog-area-section .main,
+      .blog-area-section .nomain {
+          font-size: 14px !important;
+      }
+  
+      .blog-area-section h5 {
+          font-size: 18px !important;
+      }
+  
+      .blog-area-section .row {
+          flex-wrap: wrap;
+      }
+  
+      .blog-area-section .row article {
+          width: 100% !important;
+      }
+  
+      .footer-inner input {
+          max-width: 10% !important;
+      }
+  
+      .row-footer {
+          flex-wrap: wrap;
+      }
+  
+      .row-footer article {
+          width: 50% !important;
+      }
+  
+      .blogs-inner article {
+          display: flex !important;
+          width: 100% !important;
+          align-items: center;
+          justify-content: space-between !important;
+      }
+  
+      .swiper article {
+          width: 100% !important;
+      }
+  
+      .service-area-section .cards-row {
+          flex-wrap: wrap;
+          column-gap: 10px;
+          row-gap: 20px;
+      }
+  
+      .service-area-section .cards-row article {
+          width: 48% !important;
+      }
+  
+      .service-area-section h2 {
+          font-size: 24px !important;
+      }
+  
+      .service-area-section h5 {
+          font-size: 18px !important;
+          margin-bottom: 10px;
+      }
+  
+      .service-area-section {
+          padding: 50px 0px;
+      }
+      
+      .contact-inner .right-side {
+          width: 100% !important;
+      }
+  
+      .about-area-section h2 {
+          font-size: 24px !important;
+      }
+  
+      .about-area-section .right-side {
+          display: none;
+      }
+  
+      .about-area-section .container .left-side {
+          width: 100% !important;
+          padding-right: 0px !important;
+      }
+  
+      .item-check-inner {
+          width: 100% !important;
+      }
+  
+      .client-rating-section {
+          margin-top: 100px !important;
+      }
+  
+      .working-progress-section article h5 {
+          font-size: 18px !important;
+      }
+  
+      .portfolio-area-section .container .row {
+          width: 100% !important;
+      }
+  
+      .portfolio-area-section .container .row article {
+          width: 100% !important;
+      }
+  
+      .footer-inner .article-inner .quick-link-inner ul li {
+          font-size: 13px !important;
+      }
+  }
+  
+
 @media (min-width: 600px) and (max-width: 900px) {
   .container {
         max-width: 70%;
